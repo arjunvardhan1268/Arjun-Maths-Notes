@@ -5,13 +5,19 @@ I plan to eventually make notes for every topic in these areas: Real Analysis, A
 
 Sources: 
 Principles of Mathematical Analysis by Rudin
+
 Introduction to Real Analysis by Bartle and Sherbert
+
 Mathematical Analysis by Apostol
 
+
 Abstract Algebra by Dummit and Foote
+
 Contemporary Abstract Algebra by Gallian
 
 Elementary Number Theory by Burton
 
+
 Prof. Sanjeev Agarwal's Course Notes (MAT220 and MAT221)
+
 Prof. Satyanarayana Reddy's Course Notes (MAT241)
