@@ -11,11 +11,15 @@ Introduction to Real Analysis by Bartle and Sherbert
 Mathematical Analysis by Apostol
 
 
+
 Abstract Algebra by Dummit and Foote
 
 Contemporary Abstract Algebra by Gallian
 
+
+
 Elementary Number Theory by Burton
+
 
 
 Prof. Sanjeev Agarwal's Course Notes (MAT220 and MAT221)
