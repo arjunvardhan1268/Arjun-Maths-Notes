@@ -3,7 +3,8 @@ Maths Notes created by me. These notes are generally neither complete nor compre
 I plan to eventually make notes for every topic in these areas: Real Analysis, Abstract Algebra, Elementary Number Theory, Multivariable and Vector Calculus, and Linear Algebra.
 
 
-Sources: 
+Sources:
+
 Principles of Mathematical Analysis by Rudin
 
 Introduction to Real Analysis by Bartle and Sherbert
